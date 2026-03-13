@@ -17,10 +17,7 @@
   <li>🌌 Learning universe: I'm constantly expanding, exploring the latest technologies like an astronaut exploring new planets.</li>
   <li>🎮 Code fiesta: When I'm not diving into lines of code, you'll probably find me playing video games while solving algorithmic puzzles.</li>
   <li>📱 Cosmic social: If you want to get in touch with me to discuss intergalactic projects or simply to share hilarious GIFs, feel free to join me at www.linkedin.com/in/ziyad-chaabi.</li>
-  <li>✨ Space fun fact: Did you know I have a secret passion for code aliens? My alien friends help me solve the universe's most mysterious bugs!</li>
 </ul>
-
-<p>Feel free to explore my intergalactic repositories. If you have any questions, crazy ideas or just want to chat, join me on this crazy and fascinating web development adventure!</p>
 
 <p>May the power of code be with you! 🚀🌟</p>
 
