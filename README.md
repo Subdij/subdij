@@ -1,4 +1,4 @@
-<a href="https://ziyad-chaabi.github.io/"><img src="assets/hero.svg" width="100%" alt="Ziyad Chaabi, développeur à Troyes : applis web et mobiles, mondes en VR, scripts du quotidien. Un chat violet à lunettes dorées lance des lasers depuis l'espace."></a>
+<a href="https://ziyad-chaabi.github.io/"><img src="assets/hero.svg" width="100%" alt="Ziyad Chaabi, développeur : applis web et mobiles, mondes en VR, scripts du quotidien. Un chat violet à lunettes dorées lance des lasers depuis l'espace."></a>
 
 <p align="center">
 Je suis développeur Full Stack. Je fais des applis web et mobiles, des mondes en réalité virtuelle, et des scripts pour les petites frustrations du quotidien.
