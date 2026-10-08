@@ -1,11 +1,11 @@
 <a href="https://ziyad-chaabi.github.io/"><img src="assets/hero.svg" width="100%" alt="Ziyad Chaabi, développeur à Troyes : applis web et mobiles, mondes en VR, scripts du quotidien. Un chat violet à lunettes dorées lance des lasers depuis l'espace."></a>
 
 <p align="center">
-Je suis développeur à Troyes. Je fais des applis web et mobiles, des mondes en réalité virtuelle, et des scripts pour les petites frustrations du quotidien.
+Je suis développeur Full Stack. Je fais des applis web et mobiles, des mondes en réalité virtuelle, et des scripts pour les petites frustrations du quotidien.
 </p>
 
 <p align="center">
-Je suis passé par le design avant le code, et ça se sent dans ma façon de travailler : je pense d'abord aux gens qui vont se servir de l'outil, et seulement ensuite à la stack. Avant de choisir un framework, je cherche à comprendre ce qui coince aujourd'hui, ce qui fait perdre du temps, ce qu'on contourne faute de mieux. Remplacer les fichiers Excel de quatre entreprises du BTP par une seule application, c'était d'abord ça.
+Je suis passé par le design avant le code, et ça se sent dans ma façon de travailler : je pense d'abord aux gens qui vont se servir de l'outil, et seulement ensuite à la stack. Avant de choisir un framework, je cherche à comprendre ce qui coince aujourd'hui, ce qui fait perdre du temps, ce qu'on contourne faute de mieux.
 </p>
 
 <p align="center">
