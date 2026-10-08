@@ -11,49 +11,6 @@ Je suis passé par le design avant le code : je pense d'abord aux gens qui vont 
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-### 🪐 Planètes visitées
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://ziyad-chaabi.github.io/projets/btp-360.html"><img src="https://ziyad-chaabi.github.io/img/p/btp-360/1.webp" alt="BTP-360"></a><br>
-      <b>BTP-360</b><br>
-      <sub>Une seule application à la place des fichiers Excel de quatre entreprises du BTP. Angular, NestJS, AWS.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://ziyad-chaabi.github.io/projets/hotel-murder-vr.html"><img src="https://ziyad-chaabi.github.io/img/p/hotel-murder-vr/cover.jpg" alt="Hotel Murder VR"></a><br>
-      <b>Hotel Murder VR</b><br>
-      <sub>Un escape game d'enquête en réalité virtuelle, où le son guide la fouille. Unity 6.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://ziyad-chaabi.github.io/projets/lolop.html"><img src="https://ziyad-chaabi.github.io/img/p/lolop/cover.jpg" alt="lolop"></a><br>
-      <b>lolop</b><br>
-      <sub>Le compagnon League of Legends que je voulais dans la poche, même sans réseau. Android.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://ziyad-chaabi.github.io/projets/distri-sur-france.html"><img src="https://ziyad-chaabi.github.io/img/p/distri-sur-france/1.webp" alt="Distri Sûr France"></a><br>
-      <b>Distri Sûr France</b><br>
-      <sub>Dix mois d'alternance pour créer une boutique en ligne, des maquettes à la mise en ligne. Odoo.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://ziyad-chaabi.github.io/projets/turaty-naturels.html"><img src="https://ziyad-chaabi.github.io/img/p/turaty-naturels/cover.jpg" alt="Turaty Naturels"></a><br>
-      <b>Turaty Naturels</b><br>
-      <sub>Une boutique de cosmétiques bio, du catalogue jusqu'à la facture. Symfony, Stripe.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://ziyad-chaabi.github.io/projets/zabi.html"><img src="https://ziyad-chaabi.github.io/img/p/zabi/4.webp" alt="ZABI"></a><br>
-      <b>ZABI</b><br>
-      <sub>Un duel de super-héros au tour par tour, façon arcade, parmi 731 personnages. Express, MongoDB.</sub>
-    </td>
-  </tr>
-</table>
-
-<sub>✦ Le reste, des exercices d'école aux scripts du dimanche, gravite sur [la carte du labo](https://ziyad-chaabi.github.io/labo.html).</sub>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
 ### 🔭 Équipement de bord
 
 **Web et mobile**<br>
