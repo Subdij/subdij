@@ -11,11 +11,6 @@ Je suis passé par le design avant le code : je pense d'abord aux gens qui vont 
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-### 🛰️ En orbite en ce moment
-
-> **[SubForge](https://ziyad-chaabi.github.io/projets/subforge.html)** · un coach nutrition où l'on décrit son repas en une phrase. L'IA propose, la personne décide.<br>
-> <sub>React Native · Supabase · Gemini</sub>
-
 ### 🪐 Planètes visitées
 
 <table>
