@@ -40,10 +40,6 @@ Je suis passé par le design avant le code : je pense d'abord aux gens qui vont 
 <img src="https://img.shields.io/badge/Figma-331a8a?style=for-the-badge&logo=figma&logoColor=e4af2d" alt="Figma">
 <img src="https://img.shields.io/badge/Suite_Adobe-331a8a?style=for-the-badge" alt="Suite Adobe">
 
-### 🌙 Hors de l'écran
-
-Le manga (JoJo, surtout Steel Ball Run), League of Legends, la muscu, et l'équipe e-sport de l'INSA pendant le master. Presque tous mes projets perso sont nés de là.
-
 <img src="assets/divider.svg" width="100%" alt="">
 
 ### 📡 Ouvrir un canal
