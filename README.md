@@ -1,8 +1,15 @@
 <a href="https://ziyad-chaabi.github.io/"><img src="assets/hero.svg" width="100%" alt="Ziyad Chaabi, développeur à Troyes : applis web et mobiles, mondes en VR, scripts du quotidien. Un chat violet à lunettes dorées lance des lasers depuis l'espace."></a>
 
 <p align="center">
-Je fais des applis web et mobiles, des mondes en réalité virtuelle, et des scripts pour les petites frustrations du quotidien.<br>
-Je suis passé par le design avant le code : je pense d'abord aux gens qui vont se servir de l'outil, et seulement ensuite à la stack.
+Je suis développeur à Troyes. Je fais des applis web et mobiles, des mondes en réalité virtuelle, et des scripts pour les petites frustrations du quotidien.
+</p>
+
+<p align="center">
+Je suis passé par le design avant le code, et ça se sent dans ma façon de travailler : je pense d'abord aux gens qui vont se servir de l'outil, et seulement ensuite à la stack. Avant de choisir un framework, je cherche à comprendre ce qui coince aujourd'hui, ce qui fait perdre du temps, ce qu'on contourne faute de mieux. Remplacer les fichiers Excel de quatre entreprises du BTP par une seule application, c'était d'abord ça.
+</p>
+
+<p align="center">
+En réalité virtuelle, j'aime quand le décor raconte l'histoire : dans mon escape game, c'est le son qui guide la fouille. Et quand un petit truc m'agace au quotidien, j'écris un script pour ne plus jamais y penser.
 </p>
 
 <p align="center">
