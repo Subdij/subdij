@@ -46,6 +46,7 @@ Remplace les fichiers Excel de quatre sociétés : RH et contrats, matériel, fi
 
 - **[Funfair VR](https://github.com/Subdij/Project_VR)** · Cinq mini-jeux de fête foraine en VR, projet de Master en binôme. Unity, C#, XR Interaction Toolkit, OpenXR. Ma partie : la piscine, le punching ball, le menu à portails entre les scènes, l'audio.
 - **[Hotel VR](https://github.com/Subdij/Hotel-repo)** · Escape game d'enquête en VR, équipe de 3. Ma partie : la salle de contrôle (lecteur de cassettes, boîtier électrique à levier, mur d'écrans, cinématique de fin). Unity 6, C#, XR Interaction Toolkit.
+- **[Rockfeller](https://github.com/Subdij/Rockfeller_MagasinVR)** · Magasin en VR (clients, négociation, inventaire), en équipe. Unity 6, C#. Ma partie : l'environnement VR, un ordinateur jouable dans la scène avec un quiz d'entretien, et l'inventaire.
 
 **Données**
 
