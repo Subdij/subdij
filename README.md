@@ -1,61 +1,51 @@
-<a href="https://ziyad-chaabi.github.io/"><img src="assets/banner.svg" width="100%" alt="Ziyad Chaabi, développeur : applis web et mobiles, mondes en VR, scripts du quotidien. Un chat violet à lunettes dorées lance des lasers depuis l'espace."></a>
+### Ziyad Chaabi
 
-<p align="center">
-Je suis développeur Full Stack. Je fais des applis web et mobiles, des mondes en réalité virtuelle, et des scripts pour les petites frustrations du quotidien.
-</p>
+Développeur full stack TypeScript · Angular, NestJS, PostgreSQL, AWS · Troyes, France<br>
+<sub>Full-stack TypeScript developer, open to roles in France and Europe.</sub>
 
-<p align="center">
-Je suis passé par le design avant le code, et ça se sent dans ma façon de travailler : je pense d'abord aux gens qui vont se servir de l'outil, et seulement ensuite à la stack. Avant de choisir un framework, je cherche à comprendre ce qui coince aujourd'hui, ce qui fait perdre du temps, ce qu'on contourne faute de mieux.
-</p>
+[Portfolio](https://ziyad-chaabi.github.io) · [LinkedIn](https://www.linkedin.com/in/ziyad-chaabi/) · [ziyadou2011@hotmail.fr](mailto:ziyadou2011@hotmail.fr)
 
-<p align="center">
-En réalité virtuelle, j'aime quand le décor raconte l'histoire : dans mon escape game, c'est le son qui guide la fouille. Et quand un petit truc m'agace au quotidien, j'écris un script pour ne plus jamais y penser.
-</p>
+Diplômé du Master Sciences et Technologies du Métavers (INSA Hauts-de-France). En stage de fin d'études chez Iso Sûr France, j'ai conçu et livré seul BTP-360, l'application de gestion de quatre sociétés sœurs du BTP, en web, sur Android et en PWA, déployée sur AWS. Je code avec des agents IA (Claude Code, Codex), cadrés par des règles projet, des tests et une revue de chaque changement.
 
-<p align="center">
-  <a href="https://ziyad-chaabi.github.io/"><img src="https://img.shields.io/badge/Explorer_le_portfolio_%E2%86%92-e4af2d?style=for-the-badge&labelColor=07023a" alt="Explorer le portfolio"></a>
-</p>
+Disponible pour un CDI de développeur full stack, mobile ou IA appliquée.
 
-<img src="assets/divider.svg" width="100%" alt="">
+## Projet principal
 
-### 🔭 Équipement de bord
+**BTP-360** · code privé (application d'entreprise), démo sur demande
 
-**Web et mobile**<br>
-<img src="https://img.shields.io/badge/TypeScript-100758?style=for-the-badge&logo=typescript&logoColor=e4af2d" alt="TypeScript">
-<img src="https://img.shields.io/badge/Angular-100758?style=for-the-badge&logo=angular&logoColor=e4af2d" alt="Angular">
-<img src="https://img.shields.io/badge/Ionic-100758?style=for-the-badge&logo=ionic&logoColor=e4af2d" alt="Ionic">
-<img src="https://img.shields.io/badge/React_Native-100758?style=for-the-badge&logo=react&logoColor=e4af2d" alt="React Native">
+Remplace les fichiers Excel de quatre sociétés : RH et contrats, matériel, finance, chantiers, planning et pointage terrain.
 
-**Back-end**<br>
-<img src="https://img.shields.io/badge/NestJS-331a8a?style=for-the-badge&logo=nestjs&logoColor=e4af2d" alt="NestJS">
-<img src="https://img.shields.io/badge/PostgreSQL-331a8a?style=for-the-badge&logo=postgresql&logoColor=e4af2d" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Prisma-331a8a?style=for-the-badge&logo=prisma&logoColor=e4af2d" alt="Prisma">
-<img src="https://img.shields.io/badge/Supabase-331a8a?style=for-the-badge&logo=supabase&logoColor=e4af2d" alt="Supabase">
+- Ionic, Angular, NgRx, Capacitor côté client ; NestJS, Prisma, PostgreSQL, Socket.IO côté serveur
+- Production sur AWS : Docker Compose sur EC2, Terraform, CI/CD GitHub Actions, supervision Sentry
+- 380 commits, 255 fichiers de tests unitaires, 54 suites E2E Playwright, documentation API Swagger
+- Mobile offline-first, pointage géolocalisé, QR code par outil, OCR local des notes de frais
+- JWT, RBAC à 5 rôles, données sensibles chiffrées au repos, soft-delete RGPD
 
-**Réalité virtuelle**<br>
-<img src="https://img.shields.io/badge/Unity-7437b3?style=for-the-badge&logo=unity&logoColor=e4af2d" alt="Unity">
-<img src="https://img.shields.io/badge/C%23-7437b3?style=for-the-badge&logo=dotnet&logoColor=e4af2d" alt="C#">
-<img src="https://img.shields.io/badge/XR_Interaction_Toolkit-7437b3?style=for-the-badge&logo=unity&logoColor=e4af2d" alt="XR Interaction Toolkit">
+## Projets publics
 
-**Mise en production**<br>
-<img src="https://img.shields.io/badge/Docker-100758?style=for-the-badge&logo=docker&logoColor=e4af2d" alt="Docker">
-<img src="https://img.shields.io/badge/AWS-100758?style=for-the-badge" alt="AWS">
-<img src="https://img.shields.io/badge/Terraform-100758?style=for-the-badge&logo=terraform&logoColor=e4af2d" alt="Terraform">
-<img src="https://img.shields.io/badge/GitHub_Actions-100758?style=for-the-badge&logo=githubactions&logoColor=e4af2d" alt="GitHub Actions">
+**Web et back-end**
 
-**Design**<br>
-<img src="https://img.shields.io/badge/Figma-331a8a?style=for-the-badge&logo=figma&logoColor=e4af2d" alt="Figma">
-<img src="https://img.shields.io/badge/Suite_Adobe-331a8a?style=for-the-badge" alt="Suite Adobe">
+- **[ZABI](https://github.com/Subdij/ZABI)** · Jeu de duel de super-héros, équipe de 4. Node.js, Express, MongoDB, API REST. Ma partie : le back-end (import de 731 héros, base, statistiques, bonus).
+- **[SubChaine](https://github.com/Subdij/BlockChain)** · Simulateur de blockchain temps réel : wallets, transactions, minage par preuve de travail, vérification des racines de Merkle. Node.js, Socket.IO.
 
-<img src="assets/divider.svg" width="100%" alt="">
+**Mobile**
 
-### 📡 Ouvrir un canal
+- **[lolop](https://github.com/Subdij/lolop)** · Compagnon League of Legends pour Android : API Riot, favoris, cache hors ligne, mises à jour en arrière-plan. Java, MVVM, Retrofit, SQLite, WorkManager.
 
-<a href="https://ziyad-chaabi.github.io/"><img src="https://img.shields.io/badge/Portfolio-ziyad--chaabi.github.io-e4af2d?style=for-the-badge&labelColor=07023a" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/ziyad-chaabi/"><img src="https://img.shields.io/badge/LinkedIn-ziyad--chaabi-c97bd0?style=for-the-badge&labelColor=07023a" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/ziyad_chb/"><img src="https://img.shields.io/badge/Instagram-@ziyad__chb-ff5fd2?style=for-the-badge&labelColor=07023a" alt="Instagram"></a>
-<a href="mailto:ziyadou2011@hotmail.fr"><img src="https://img.shields.io/badge/Mail-ziyadou2011@hotmail.fr-7437b3?style=for-the-badge&labelColor=07023a" alt="ziyadou2011@hotmail.fr"></a>
+**Réalité virtuelle**
 
-<br><br>
+- **[Funfair VR](https://github.com/Subdij/Project_VR)** · Cinq mini-jeux de fête foraine en VR, projet de Master. Unity, C#, XR Interaction Toolkit, OpenXR, découpe d'objets en temps réel.
 
-<img src="assets/footer.svg" width="100%" alt="Fin de transmission : un petit chat à lunettes, assis sur une planète, cligne de ses yeux laser.">
+**Données**
+
+- **[Prénoms INSEE sur Hadoop](https://github.com/Subdij/mini-projet-hadoop)** · Les prénoms les plus donnés en France par année et par sexe : MapReduce en Python avec Hadoop Streaming, script Pig, rendu HTML et graphique.
+- **[QuizDown](https://github.com/Subdij/TP5_Quizz)** · Jeu de quiz en Python et Pygame, équipe de 5 ; j'ai tenu l'architecture du projet.
+
+## Stack
+
+**Langages** · TypeScript, JavaScript, Java, C#, Python, PHP, SQL<br>
+**Front et mobile** · Angular, Ionic, Capacitor, NgRx, RxJS, React, React Native<br>
+**Back-end** · NestJS, Node.js, Express, Prisma, PostgreSQL, MongoDB, Socket.IO<br>
+**DevOps et qualité** · Docker, AWS, Terraform, GitHub Actions, Playwright, Jest, Sentry<br>
+**XR** · Unity, XR Interaction Toolkit, OpenXR<br>
+**IA** · Claude Code, Codex, MCP, intégration de LLM
