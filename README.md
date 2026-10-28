@@ -35,6 +35,7 @@ Remplace les fichiers Excel de quatre sociétés : RH et contrats, matériel, fi
 **Réalité virtuelle**
 
 - **[Funfair VR](https://github.com/Subdij/Project_VR)** · Cinq mini-jeux de fête foraine en VR, projet de Master. Unity, C#, XR Interaction Toolkit, OpenXR, découpe d'objets en temps réel.
+- **[Hotel VR](https://github.com/Subdij/Hotel-repo)** · Escape game d'enquête en VR, équipe de 3. Ma partie : la salle de contrôle (lecteur de cassettes, boîtier électrique à levier, mur d'écrans, cinématique de fin). Unity 6, C#, XR Interaction Toolkit.
 
 **Données**
 
