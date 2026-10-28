@@ -27,14 +27,15 @@ Remplace les fichiers Excel de quatre sociétés : RH et contrats, matériel, fi
 
 - **[ZABI](https://github.com/Subdij/ZABI)** · Jeu de duel de super-héros, équipe de 4. Node.js, Express, MongoDB, API REST. Ma partie : le back-end (import de 731 héros, base, statistiques, bonus).
 - **[SubChaine](https://github.com/Subdij/BlockChain)** · Simulateur de blockchain temps réel : wallets, transactions, minage par preuve de travail, vérification des racines de Merkle. Node.js, Socket.IO.
+- **[Hotel Paie](https://github.com/Subdij/Hotel-Paie)** · Réservation de chambres d'hôtel, équipe de 3. PHP, MySQL, Tailwind. Ma partie : l'API, l'authentification et le schéma de la base ; requêtes en paramètres liés.
 
 **Mobile**
 
-- **[lolop](https://github.com/Subdij/lolop)** · Compagnon League of Legends pour Android : API Riot, favoris, cache hors ligne, mises à jour en arrière-plan. Java, MVVM, Retrofit, SQLite, WorkManager.
+- **[lolop](https://github.com/Subdij/lolop)** · Compagnon League of Legends pour Android, en binôme. Java, MVVM, Retrofit (API Riot), SQLite, WorkManager. Ma partie : le catalogue d'objets, les notes de patch, la traduction FR/EN, les favoris.
 
 **Réalité virtuelle**
 
-- **[Funfair VR](https://github.com/Subdij/Project_VR)** · Cinq mini-jeux de fête foraine en VR, projet de Master. Unity, C#, XR Interaction Toolkit, OpenXR, découpe d'objets en temps réel.
+- **[Funfair VR](https://github.com/Subdij/Project_VR)** · Cinq mini-jeux de fête foraine en VR, projet de Master en binôme. Unity, C#, XR Interaction Toolkit, OpenXR. Ma partie : la piscine, le punching ball, le menu à portails entre les scènes, l'audio.
 - **[Hotel VR](https://github.com/Subdij/Hotel-repo)** · Escape game d'enquête en VR, équipe de 3. Ma partie : la salle de contrôle (lecteur de cassettes, boîtier électrique à levier, mur d'écrans, cinématique de fin). Unity 6, C#, XR Interaction Toolkit.
 
 **Données**
